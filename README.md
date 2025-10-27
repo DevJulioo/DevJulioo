@@ -21,13 +21,13 @@
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
 <p align="center">
-  <a href="[LINK_DO_LINKEDIN_AQUI]" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-cesar-de-souza-moura" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-6B01FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/vuulgo__2k25" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-6B01FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:[SEU_EMAIL_AQUI]" target="_blank">
+  <a href="mailto:julio.moura.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-6B01FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
