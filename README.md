@@ -117,10 +117,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=DevJulioo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/DevJulioo/DevJulioo/output/snake.svg" alt="Snake animation"/>
 </p>
 
