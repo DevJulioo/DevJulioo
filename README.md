@@ -21,13 +21,13 @@
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julio-cesar-de-souza-moura" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-cesar-de-souza-moura" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-6B01FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/vuulgo__2k25" target="_blank">
+  <a href="https://www.instagram.com/vuulgo__2k25" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-6B01FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:julio.moura.dev@gmail.com" target="_blank">
+  <a href="mailto:julio.moura.dev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-6B01FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -35,7 +35,9 @@
 <div align="center">
   <br>
   <p align="center"><b>Contador de Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/DevJulioo/count.svg" alt="Visitors Count"/></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DevJulioo&color=6B01FF&style=for-the-badge" alt="Profile Views"/>
+  </p>  
   <br>
 </div>
 
@@ -98,7 +100,7 @@
   Meu projeto de TCC (Frontend e Backend) para o curso de Desenvolvimento de Sistemas no SENAI.
 </p>
 <p align="center">
-  <a href="https://github.com/DevJulioo/EducaSenai">
+  <a href="https://github.com/DevJulioo/EducaSenai" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevJulioo&repo=EducaSenai&title_color=6B01FF&icon_color=6B01FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Projeto TCC EducaSenai"/>
   </a>
 </p>
@@ -108,7 +110,7 @@
 <h2 align="center">🏆 Atividade e Troféus</h2>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJulioo&bg_color=000000&color=6B01FF&line=6B01FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
@@ -118,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/DevJulioo/DevJulioo/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution graph">
+  <img src="https://raw.githubusercontent.com/DevJulioo/DevJulioo/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
