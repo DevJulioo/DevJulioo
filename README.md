@@ -101,8 +101,8 @@
   Meu projeto de TCC (Frontend e Backend) para o curso de Desenvolvimento de Sistemas no SENAI.
 </p>
 <p align="center">
-  <a href="https://github.com/DevJulioo/EducaSenai" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevJulioo&repo=EducaSenai&title_color=6B01FF&icon_color=6B01FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Projeto TCC EducaSenai"/>
+  <a href="https://github.com/PeresDev01/EducaSenai" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeresDev01&repo=EducaSenai&title_color=6B01FF&icon_color=6B01FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Projeto TCC EducaSenai"/>
   </a>
 </p>
 
