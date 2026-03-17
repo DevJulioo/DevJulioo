@@ -11,7 +11,7 @@
 <h2 align="center">👋 Sobre Mim</h2> 
 
 <ul>
-  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e Técnico no <strong>SENAI</strong>.</li>
+  <li>🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e Técnico no <strong>SENAI</strong>.</li>
   <li>💻 Desenvolvedor focado em <strong>Front-End</strong>, com sólida base em <strong>HTML5, CSS3 e JavaScript</strong>.</li>
   <li>🚀 Atualmente em transição para o ecossistema <strong>React</strong> e aprimorando lógica de programação.</li>
   <li>🎯 Buscando oportunidade como <strong>Jovem Aprendiz</strong> para aplicar meus conhecimentos e evoluir profissionalmente.</li>
