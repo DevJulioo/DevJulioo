@@ -10,12 +10,12 @@
 
 <h2 align="center">👋 Sobre Mim</h2> 
 
-<p align="center"> 
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e Técnico no <strong>SENAI</strong>.<br>
-  💻 Desenvolvedor focado em <strong>Front-End</strong>, com sólida base em <strong>HTML5, CSS3 e JavaScript</strong>.<br>
-  🚀 Atualmente em transição para o ecossistema <strong>React</strong> e aprimorando lógica de programação.<br>
-  🎯 Buscando oportunidade como <strong>Jovem Aprendiz</strong> para aplicar meus conhecimentos e evoluir profissionalmente.
-</p> 
+<ul>
+  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e Técnico no <strong>SENAI</strong>.</li>
+  <li>💻 Desenvolvedor focado em <strong>Front-End</strong>, com sólida base em <strong>HTML5, CSS3 e JavaScript</strong>.</li>
+  <li>🚀 Atualmente em transição para o ecossistema <strong>React</strong> e aprimorando lógica de programação.</li>
+  <li>🎯 Buscando oportunidade como <strong>Jovem Aprendiz</strong> para aplicar meus conhecimentos e evoluir profissionalmente.</li>
+  </ul>
 
 <p align="center">
   <a href="mailto:julio.csm11@hotmail.com" target="_blank">
